@@ -62,6 +62,21 @@
     /*Set the display to none first, and then style it.*/
     .hamburger-icon {display : none ; float : right; justify-content : center;};
 
+    .icon {
+        display: block;
+        color: white;
+        padding: 16px 16px;
+        margin : 0px;
+        text-decoration: none;
+        text-align : center;
+        height : 28px;
+
+        &:hover {
+            background-color: #161366;
+        };
+
+    };
+
     .mobile-navbar-activated {
             display : none;
             align-items : flex-start;
@@ -111,7 +126,7 @@
 
     <!--MOBILE MENU HAMBURGER ICON-->
     <div class="hamburger-icon">
-        <li on:click={show}><a><i class="fa-solid fa-bars"></i></a></li>
+        <li on:click={show}><div class="icon"><i class="fa-solid fa-bars"></i></div></li>
     </div>
 
     <!--MOBILE MENU-->
