@@ -1,0 +1,47 @@
+// Container
+body {padding : 0px;};
+p {font-size : 15px; font-weight : normal;};
+h1 {font-size : 20px;};
+
+.intro-container {
+		display : grid;
+		grid-template-columns: 2;
+		grid-template-rows : 1;
+		font-size : 10px;
+};
+
+.main-container {
+		font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		width : 75%;
+		margin : 100px;
+		padding-left : 5vw;
+		padding-right : 10vw;
+};
+
+.main-container-child {
+		display : flex;
+		justify-content : center;
+		width : 100%;
+};
+
+// Projects specific container.
+
+.img-container {
+		display : grid;
+		grid-template-columns : auto auto;
+		grid-template-rows : auto;
+		grid-gap : 10px;
+};
+
+.img-container-child {
+		font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+};
+
+@media (max-width : 1060px) {
+	.img-container {
+			display : grid;
+			grid-template-columns : auto;
+			grid-template-rows : auto auto;
+			grid-gap : 10px;
+	};
+};

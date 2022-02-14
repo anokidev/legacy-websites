@@ -1,0 +1,30 @@
+// Container
+body {padding : 0px;};
+p {font-size : 15px; font-weight : normal;};
+
+h1 {font-size : 20px;};
+
+.intro-container {
+		display : grid;
+		grid-template-columns: 1;
+		grid-template-rows : 1;
+		font-size : 10px;
+		width : 100%;
+};
+
+.main-container {
+		display : flex;
+		justify-content : center;
+		font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		margin : 100px;
+		width : 75%;
+		padding-left : 5vw;
+		padding-right : 10vw;
+
+};
+
+.main-container-child {
+		display : flex;
+		justify-content : center;
+		width : 100%;
+};

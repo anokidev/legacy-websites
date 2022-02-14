@@ -1,0 +1,25 @@
+// Container
+body {padding : 0px;};
+p {font-size : 15px; font-weight : normal;};
+h1 {font-size : 20px;};
+
+.main-container {
+		font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		width : 75%;
+		margin : 100px;
+		padding-left : 5vw;
+		padding-right : 10vw;
+
+};
+
+.main-container-child {
+		display : flex;
+		justify-content : center;
+		width : 95%;
+		border : 2px solid black;
+};
+
+.limiter-view {
+		height : 5%;
+		overflow : hidden;
+};
