@@ -1,6 +1,7 @@
 <div style="justify-content : center; display : flex;" align="center">
   <h1>NOTE : THIS REPO IS OUTDATED. A NEW WEBSITE HAS BEEN BUILT AND DEPLOYED.</h1>
-  <p>CLICK <a href="https://www.github.com/anokidev/website">HERE</a> TO VISIT THE NEW WEBSITE REPOSITORY</p>
+  <p>CLICK <a href="https://www.github.com/anokidev/website">HERE</a> TO VISIT THE NEW WEBSITE REPOSITORY.</p>
+  <p>CLICK <a href="https://anokidev.vercel.app">HERE</a> TO VISIT THE NEW LIVE PRODUCTION WEBSITE.</p>
  
 </div>
 
