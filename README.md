@@ -1,3 +1,11 @@
+<div style="justify-content : center; display : flex;" align="center">
+  <h1>NOTE : NEW WEBSITE HAS BEEN BUILT AND DEPLOYED.</h1>
+  <a href="https://www.github.com/anokidev/website">CLICK HERE TO VISIT THE NEW WEBSITE REPOSITORY</a>
+ 
+</div>
+
+---------------------------------------------------------
+
 # Website
 
 Website is hosted in [here](https://anokidev.github.io).
