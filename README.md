@@ -1,6 +1,6 @@
 <div style="justify-content : center; display : flex;" align="center">
   <h1>NOTE : THIS REPO IS OUTDATED. A NEW WEBSITE HAS BEEN BUILT AND DEPLOYED.</h1>
-  <a href="https://www.github.com/anokidev/website">CLICK HERE TO VISIT THE NEW WEBSITE REPOSITORY</a>
+  <p>CLICK <a href="https://www.github.com/anokidev/website">HERE</a> TO VISIT THE NEW WEBSITE REPOSITORY</p>
  
 </div>
 
